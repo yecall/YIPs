@@ -1,0 +1,2 @@
+# YIPs
+YeeChain Improvement Proposal
